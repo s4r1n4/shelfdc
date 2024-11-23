@@ -77,18 +77,8 @@ Contributions are welcome to improve StudyShelfBot. Here's how you can help:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Please review the license for usage details.
-
----
-
 ## Disclaimer
 
 All content uploaded to StudyShelfBot is public and accessible by all users. Please ensure that uploaded materials comply with copyright laws and server guidelines. The bot administrators are not responsible for the accuracy or legality of user-uploaded content.
 
 ---
-
-## Contact
-
-For questions, issues, or suggestions, please open an issue in this repository or contact the maintainer at [email@example.com](mailto:email@example.com).
