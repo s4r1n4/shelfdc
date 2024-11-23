@@ -1,0 +1,5 @@
+shelf.py [tasks]
+1. back button ✅
+2. embed pages 
+3. fix help command page button ✅
+4. remove global from all commands bc i made embeds inside command
