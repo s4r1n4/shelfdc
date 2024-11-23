@@ -1,6 +1,6 @@
-# StudyShelfBot
+# Shelf - Discord
 
-A public, open-access Discord bot for organizing and sharing study materials in **math** and **computer science**. All resources uploaded through the bot are accessible across all servers using StudyShelfBot, fostering a global, collaborative learning environment.
+A public, open-access Discord bot for organizing and sharing study materials in **math** and **computer science**. All resources uploaded through the bot are accessible across all servers using Shelf, fostering a global, collaborative learning environment.
 
 ---
 
@@ -19,6 +19,7 @@ A public, open-access Discord bot for organizing and sharing study materials in 
 - **Browse and Search**
   - Quickly locate resources using keywords or navigate through the available materials.
 
+Note: Might add more to collections.
 ---
 
 ## Getting Started
@@ -33,7 +34,7 @@ A public, open-access Discord bot for organizing and sharing study materials in 
 - `/upload <subject>`  
   Upload study materials to the specified subject (`math` or `cs`).
 
-- `/browse`  
+- `/collection`  
   Browse materials in the selected subject.
 
 - `/search`  
